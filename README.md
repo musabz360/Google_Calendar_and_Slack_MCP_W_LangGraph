@@ -1,6 +1,6 @@
-# Google Calendar & Slack MCP Agent (LangGraph)
+# Google Calendar MCP Agent (LangGraph)
 
-This project is a starter template for building a custom Reasoning and Action agent using [LangGraph](https://github.com/langchain-ai/langgraph). The agent integrates with Google Calendar and Slack via MCP (Model Context Protocol) for advanced scheduling and communication automation.
+This project is a starter template for building a custom Reasoning and Action agent using [LangGraph](https://github.com/langchain-ai/langgraph). The agent integrates with Google Calendar via MCP (Model Context Protocol) for advanced scheduling automation.
 
 ---
 
@@ -86,7 +86,7 @@ pip install -e .
 
 ## Running the Agent
 
-You can now use the agent as designed, with full Google Calendar and Slack integration via MCP.
+You can now use the agent as designed, with full Google Calendar integration via MCP.
 
 ---
 

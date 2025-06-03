@@ -25,7 +25,8 @@ async def get_mcp_tools():
     client = MultiServerMCPClient(
         {        
             "google_calendar": {
-                "url": "https://server.smithery.ai/@rishipradeep-think41/gsuite-mcp/mcp?profile=semantic-hornet-u6WFQB&api_key=99d27e1a-cd75-4530-ac45-96e2a33726d9",
+                # Write here your Smithery MCP Google Calendar URL after configuration
+                "url": "<write your Smithery MCP Google Calendar URL here>",
                 "transport": "streamable_http",
             },
         }
